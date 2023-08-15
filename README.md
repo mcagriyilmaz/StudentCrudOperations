@@ -2,7 +2,7 @@
 
 ### -You need to build and run the backend code and connect to HSQLDB database. You can access the database URL in application.properties file in backend folder.
 
-### -You can start the app with 'npm start' command.
+### -To start the project, you need to write these two lines in command line:npm install react | npm install bootstrap. Now you can start the app with 'npm start' command.
 
 Database scripts and example schema are in database folder.
 
