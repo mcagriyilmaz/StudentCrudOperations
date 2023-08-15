@@ -5,3 +5,5 @@
 -You can start the app with npm start command.
 
 Database scripts and example schema are in database folder.
+
+While adding a student, there is a section named 'description'. It doesn't show up in the student list, you can access it on view page. 
