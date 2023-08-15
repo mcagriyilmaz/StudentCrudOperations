@@ -4,4 +4,4 @@
 
 -You can start the app with npm start command.
 
-Database scripts and example schema is in database folder
+Database scripts and example schema are in database folder.
